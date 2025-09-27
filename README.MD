@@ -14,7 +14,10 @@ A Go library to calculate final grades for various classes with the categories a
 ## Installation & Usage
 
 1. Clone the repository
-2. run ```bash cd **grade-calculator** ```
+2. run 
+```bash
+cd grade-calculator
+```
 3. Run unit tests by running:
 ```bash
 go test
