@@ -14,7 +14,7 @@ A Go library to calculate final grades for various classes with the categories a
 ## Installation & Usage
 
 1. Clone the repository
-2. run 
+2. Run 
 ```bash
 cd grade-calculator
 ```
